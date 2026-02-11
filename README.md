@@ -4,6 +4,8 @@ React + Vite frontend for a Todo app used in QUAL2000. This UI connects to a sep
 
 ## Features
 
+
+updatdedd 
 - Create tasks with title and description
 - List tasks as cards with status badges
 - Mark tasks as done/open
